@@ -262,7 +262,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         padding: EdgeInsetsDirectional.fromSTEB(0, 0, 0, 10),
                         child: SelectionArea(
                           child: Text(
-                            'Version 1.0.0',
+                            'Version 1.0.1',
                             style: TextStyle(
                               fontFamily: 'OpenSans',
                               fontWeight: FontWeight.w600,
